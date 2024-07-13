@@ -1,0 +1,18 @@
+Nome de Medicamento: Paracetamol
+Referência: REF12345
+Dose: 500 mg
+Número de Comprimidos: 20
+Lote: ABC123
+Data de Emissão: 2024-07-08
+Data de Validade: 2025-07-08
+Dose Diária: 1 comprimido de 500 mg, de 6 em 6 horas
+Efeito Colateral: Sonolência leve
+Informações Adicionais: Tomar com alimentos
+Pressão Arterial: Normal
+Orientação de Armazenamento: Armazenar em temperatura ambiente
+Nome do Medicamento: Paracetamol
+ID do Paciente: 123456
+Número do NHS: NHS123456
+Nome do Paciente: João da Silva
+Data de Nascimento: 1990-01-01
+Endereço do Paciente: Rua Principal, 123, Cidade, Estado
